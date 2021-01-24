@@ -19,42 +19,101 @@
 ship "Albatross"
 	add attributes
 		"outfit space" 34
+	gun 0 -190
+	gun -9 -177 "Inhibitor Cannon"
+	gun 9 -177 "Inhibitor Cannon"
+	gun -14 -162 "Inhibitor Cannon"
+	gun 14 -162 "Inhibitor Cannon"
+	gun -18 -144 "Inhibitor Cannon"
+	gun 18 -144 "Inhibitor Cannon"
+	turret -23 -34 "Thrasher Turret"
+	turret 23 -34 "Thrasher Turret"
+	turret -74 62
+	turret 74 62
+	turret 0 77 "Point Defense Turret"
 
 ship "Gull"
 	add attributes
 		"outfit space" 16
+	gun 0 -96 "Inhibitor Cannon"
+	gun -7 -94
+	gun 7 -94
+	turret 0 26 "Point Defense Turret"
 
 ship "Heron"
 	add attributes
 		"outfit space" 108
+	gun 0 -325
+	gun -23.5 -302.5
+	gun 23.5 -302.5
+	turret -34.5 -134.5 "Inhibitor Turret"
+	turret 34.5 -134.5 "Inhibitor Turret"
+	turret -53 -17.5 "Inhibitor Turret"
+	turret 53 -17.5 "Inhibitor Turret"
+	turret -123.5 125.5 "Inhibitor Turret"
+	turret 123.5 125.5 "Inhibitor Turret"
+	turret 0 -240.5 "Point Defense Turret"
+	turret 0 0 "Point Defense Turret"
+	turret 0 250 "Point Defense Turret"
 
 ship "Ibis"
 	add attributes
 		"outfit space" 22
+	gun 0 -135.5 "Inhibitor Cannon"
+	gun 15.5 -102 "Inhibitor Cannon"
+	gun -15.5 -102 "Inhibitor Cannon"
+	turret 0 -62
+	turret 0 -20.5 "Point Defense Turret"
+	turret 0 58.5 "Thrasher Turret"
 
 ship "Pelican"
 	add attributes
 		"outfit space" 24
+	gun 8 -135
+	gun -8 -135
+	turret 0 -67 "Thrasher Turret"
+	turret 56 35 "Point Defense Turret"
+	turret -56 35 "Point Defense Turret"
 
 ship "Penguin"
 	add attributes
 		"outfit space" 6
+	gun 0 -33
+	turret 0 5.5
 
 ship "Peregrine"
 	add attributes
 		"outfit space" 28
+	gun 0 -133.5 "EMP Torpedo Bay"
+	gun -12.5 -105 "Thrasher Cannon"
+	gun 12.5 -105 "Thrasher Cannon"
+	gun -17.5 -83 "Thrasher Cannon"
+	gun 17.5 -83 "Thrasher Cannon"
+	turret 0 -44 "Point Defense Turret"
+	turret 0 21 "Thrasher Turret"
 
 ship "Petrel"
 	add attributes
 		"outfit space" 7
+	gun 0 -38.5
+	gun -10.5 -24 "Inhibitor Cannon"
+	gun 10.5 -24 "Inhibitor Cannon"
+	turret 0 2.5
 
 ship "Starling"
 	add attributes
 		"outfit space" 16
+	gun 0 -99 "Inhibitor Cannon"
+	gun -12 -72 "Inhibitor Cannon"
+	gun 12 -72 "Inhibitor Cannon"
+	gun -18 -49
+	gun 18 -49
+	turret 0 2 "Point Defense Turret"
 
 ship "Tern"
 	add attributes
 		"outfit space" 5
+	gun 0 -22 "Inhibitor Cannon"
 
 # Coalition
 
