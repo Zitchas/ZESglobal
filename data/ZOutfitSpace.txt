@@ -266,14 +266,28 @@ ship "Aphid"
 ship "Aerie"
 	add attributes
 		"outfit space" 10
+	gun -13 -79 "Sidewinder Missile Launcher"
+	gun 13 -79 "Sidewinder Missile Launcher"
+	turret 0 0 "Heavy Anti-Missile Turret"
+	turret -17 14 "Heavy Laser Turret"
+	turret 17 14 "Heavy Laser Turret"
 
 ship "Argosy"
 	add attributes
 		"outfit space" 14
+	gun -22 -37 "Energy Blaster"
+	gun -22 -37 "Meteor Missile Launcher"
+	gun 22 -37 "Energy Blaster"
+	gun 22 -37 "Meteor Missile Launcher"
+	turret 0 -12.5 "Blaster Turret"
+	turret 0 9.5 "Anti-Missile Turret"
 
 ship "Arrow"
 	add attributes
 		"outfit space" 9
+	gun -7.5 -36 "Sidewinder Missile Launcher"
+	gun 7.5 -36
+	turret 0 17.5 "Anti-Missile Turret"
 
 ship "Auxiliary"
 	add attributes

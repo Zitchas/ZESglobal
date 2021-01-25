@@ -21,4 +21,14 @@
 ship "Bactrian"
 	add attributes
 		"mass" 188
+	gun -15 -226 "Torpedo Launcher"
+	gun 15 -226 "Torpedo Launcher"
+	gun -40 -133 "Sidewinder Missile Launcher"
+	gun -45 -128 "Sidewinder Missile Launcher"
+	turret -22 -148 "Heavy Laser Turret"
+	turret 26 -80 "Heavy Anti-Missile Turret"
+	turret -41 -20 "Heavy Laser Turret"
+	turret 32 -7 "Heavy Laser Turret"
+	turret 53 82 "Heavy Laser Turret"
+	turret -37 186 "Heavy Anti-Missile Turret"
 # - The Bactrian, which gets +20% hull mass instead because for a so-called city, it is far too light and has too much combat potential already). Worth noting that this actually help it resist impacts by force weapons and improves its heat capacity. So this isn't necessarily a bad thing. 
