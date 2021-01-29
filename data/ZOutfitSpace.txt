@@ -292,6 +292,12 @@ ship "Arrow"
 ship "Auxiliary"
 	add attributes
 		"outfit space" 36
+	gun -12 -180
+	gun 12 -180
+	turret 0 -75 "Heavy Anti-Missile Turret"
+	turret 0 -18
+	turret 0 22.5
+	turret 0 73.5 "Heavy Anti-Missile Turret"
 
 ship "Barb"
 	add attributes
